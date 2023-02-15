@@ -1,7 +1,7 @@
 # ic-07
 ic-07 - Intro to D3 Part 1
 
-Link to GitHub Pages: `https://github.com/DS4200-S23-Class/ic-07-pogrebitskiy/actions/runs/4187608293`
+Link to GitHub Pages: `https://ds4200-s23-class.github.io/ic-07-pogrebitskiy`
 
 ## Purpose
 
